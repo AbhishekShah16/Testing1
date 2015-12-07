@@ -1,0 +1,17 @@
+﻿<%@ Page Title="About Us" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+    CodeBehind="About.aspx.cs" Inherits="Testing1MVC.About" %>
+
+<asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
+</asp:Content>
+<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
+    <h2>
+<<<<<<< HEAD
+        About from pc
+=======
+        About from net
+>>>>>>> 30fe91336715e98d5f2bc26fb57237a1d89a819d
+    </h2>
+    <p>
+        Put content here. from pc again.
+    </p>
+</asp:Content>

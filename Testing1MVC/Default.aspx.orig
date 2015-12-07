@@ -6,10 +6,10 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
 <<<<<<< HEAD
-        Welcome to ASP.NET! Abhishek shah canceling the changes
+        Welcome to ASP.NET! Abhishek shah from pc
 =======
-        Welcome to ASP.NET! Abhishek shah mvc from net
->>>>>>> 0080f624f53cc2374a74071230b212743aab90bb
+        Welcome to ASP.NET! Abhishek shah mvc from net 11
+>>>>>>> 30fe91336715e98d5f2bc26fb57237a1d89a819d
     </h2>
     <p>
         To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
