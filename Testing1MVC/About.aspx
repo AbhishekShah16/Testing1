@@ -5,9 +5,9 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About
+        About from pc
     </h2>
     <p>
-        Put content here.
+        Put content here. from pc again.
     </p>
 </asp:Content>
